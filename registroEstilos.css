@@ -1,0 +1,9 @@
+.titulosPrincipales{
+    font-size:30px;
+    color:rgb(110, 29, 110);
+    text-align:center;
+}
+
+body{
+    background-image: url(img/ochentas.jpg);
+}
